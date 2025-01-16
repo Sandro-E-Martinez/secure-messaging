@@ -25,7 +25,7 @@ To address the metadata encryption issue, we will conceal the identity of the se
 4. [Sequence Diagram](docs/4-sequence-diagram.md)
 5. [System Components](docs/5-system-components.md)
 6. [Encryption Algorithms](docs/6-encryption-algorithms.md)
-7. [Technical Aspects](docs/7-technical-aspects.md)
+7. [Technical Aspects](docs/7-additional-aspects.md)
 8. [Use Cases](docs/8-use-cases.md)
 9. [Product Requirements Document](docs/9-prd.md)
 10. [Development Roadmap](docs/10-development-roadmap.md)
