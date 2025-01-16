@@ -13,7 +13,7 @@ To address the decentralized and permissionless concerns, we will employ relays 
 
 To resolve the encryption challenge, we will employ a combination of encryption methods utilizing NOSTR NPUB/NSEC.
 
-To address the metadata encryption issue, we will conceal the identity of the sender and recipient by embedding the messages among other encryp
+To address the metadata encryption issue, we will conceal the identity of the sender and recipient by embedding the messages among other encrypted messages, ensuring that only the intended recipient can decipher the message's origin. 
 
 # Documentation
 
